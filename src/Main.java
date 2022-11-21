@@ -6,7 +6,7 @@ public class Main {
         int d= 29;
         int e= 4;
         int f= -15;
-        float s_1 =(a + b)*(b / c);
+        float s_1 =(a + b) * (b / c);
         int s_2 = d*e*f;
         System.out.println(s_1);
         System.out.println(s_2);
